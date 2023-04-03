@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![jaeheon’s github stats](https://github-readme-stats.vercel.app/api?username=JasonJeongjaeheon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonJeongjaeheon&layout=compact&theme=tokyonight)
+
 <!--
 **JasonJeongjaeheon/JasonJeongjaeheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
